@@ -6,4 +6,3 @@ fromage mozzarella
 piments forts
 bacon
 saucisse
-jambon
