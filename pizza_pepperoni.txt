@@ -2,3 +2,4 @@ croute
 fromage mozzarella
 sauce tomate
 pepperoni
+fines herbes italiennes
